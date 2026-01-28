@@ -1,0 +1,26 @@
+{
+  "name": "JSON Tool",
+  "version": "1.0.0",
+  "description": "Локальний інструмент для роботи з JSON",
+  "author": {
+    "name": "Vladyslav Prysiazhniuk",
+    "email": "prisaznukvlad591@gmail.com"
+  },
+  "features": [
+    "Редагування JSON",
+    "Валідація синтаксису",
+    "Валідація за схемою",
+    "Undo/Redo",
+    "Автозбереження"
+  ],
+  "settings": {
+    "theme": "light",
+    "autoSave": true,
+    "validateOnType": true
+  },
+  "metadata": {
+    "created": "1234-56-78",
+    "modified": "8765-43-21",
+    "size": 1024
+  }
+}
